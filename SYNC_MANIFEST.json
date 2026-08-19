@@ -518,5 +518,10 @@
     "main": {
       "remote_sha": "b035900c0ab97cdf523a1c06d380d5ebd3022bc3"
     }
+  },
+  "timeflysoon/XChrome": {
+    "master": {
+      "remote_sha": "fd1be5bdf09293580c404b58e63f8a87c53a9df5"
+    }
   }
 }
