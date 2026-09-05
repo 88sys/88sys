@@ -204,7 +204,7 @@
   },
   "timeflysoon/Sms": {
     "main": {
-      "remote_sha": "32a38b3a5947704d5c9a26b6f2c6dd6628b59b6e"
+      "remote_sha": "1d22a19967df2919e0c1854366ae6832cbf182c0"
     }
   },
   "timeflysoon/WiFiAnalyzer": {
@@ -337,7 +337,7 @@
       "remote_sha": "bfb1276bec2adeadb352ec75853fc7897a9c1da0"
     },
     "master": {
-      "remote_sha": "3130c8663ba706449e350fde40baf82a7944f95d"
+      "remote_sha": "c4e41fcaa0a53d20fe19d6aef97be450d77166c4"
     },
     "what-a-patch-1": {
       "remote_sha": "bd7ad57350f741532cdcbd7d40c5bc4f9dab9615"
@@ -532,7 +532,7 @@
   },
   "timeflysoon/Prism-Browser-Free": {
     "main": {
-      "remote_sha": "f6e20f7189a5e1bd3e659e718c10a16420377b99"
+      "remote_sha": "20573b38adef590b64f7507f79b650472c5c5908"
     }
   }
 }
